@@ -4,4 +4,4 @@ A simple number guessing game made using JavaScript, HTML and CSS
 
 ## Demo
 
-Live Preview: https://h2anwar.github.io/guess-the-number/
+Live Preview: https://hynwar.github.io/guess-the-number/
